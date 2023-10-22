@@ -1,5 +1,5 @@
 #--------------------------------------------------------------
-# Author: Aaron Scherer
+# Author: Aaron M. Scherer
 #
 # Purpose: Make simple, local edits to an R script and push 
 #          them to GitHub
