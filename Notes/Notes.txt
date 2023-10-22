@@ -1,0 +1,2 @@
+#To make a folder in Github online, type the folder name with a backslash ('/'), then a file name
+#If you don't put a file name after the folder name, the folder name won't display
