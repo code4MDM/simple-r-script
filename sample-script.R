@@ -4,7 +4,7 @@
 # Purpose: Make simple, local edits to an R script and push 
 #          them to GitHub
 #
-# Last Updated: 10.22.23
+# Last Updated: October 22, 2023
 #--------------------------------------------------------------
 
 # read in the sample data -------------------------------------
