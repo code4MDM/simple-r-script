@@ -8,7 +8,7 @@
 #--------------------------------------------------------------
 
 # read in the sample data -------------------------------------
-data <- read.csv('data.csv')
+sample_data <- read.csv('data.csv')
 
 
 # calculate summary statistics --------------------------------
